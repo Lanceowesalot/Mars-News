@@ -2,7 +2,7 @@
 ## Challenge 11 Mars News
 
 # Mars_News_Scraping
-![HQ graphic](https://github.com/Lanceowesalot/Mars-News/blob/main/Images/Mars%20Image.png)
+
 Web-scrape and data analyse using both automated browsing with Splinter and HTML parsing with Beautiful Soup.
 
 - [Getting Started](#getting-started)
