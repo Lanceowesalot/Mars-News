@@ -1,6 +1,6 @@
 
 ## Challenge 11 Mars News
-![HQ graphic](
+![HQ graphic](https://github.com/Lanceowesalot/Mars-News/blob/main/Images/Mars%20Image.png).
 # Mars_News_Scraping
 
 Web-scrape and data analyse using both automated browsing with Splinter and HTML parsing with Beautiful Soup.
@@ -105,7 +105,7 @@ Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.i
 
        - Plot the results as a bar chart.
 
-       ![entity_relationship_diagram](https://github.com/Lanceowesalot/Pewlett_Hackard_Challenge/blob/main/ERD_Final.png).
+       ![Mars months temp](https://github.com/Lanceowesalot/Mars-News/blob/main/Images/Average%20Mars%20Temp%20by%20month.jpg).
                 
     - Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
            
@@ -113,7 +113,7 @@ Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.i
          * On average, atmospheric pressure is lowest in the sixth month and highest in the ninth.
        - Plot the results as a bar chart.
       
-      ![entity_relationship_diagram](https://github.com/Lanceowesalot/Pewlett_Hackard_Challenge/blob/main/ERD_Final.png).
+      ![Mars atmoshperic pressure](https://github.com/Lanceowesalot/Mars-News/blob/main/Images/Average%20Mars%20pressure%20by%20month.jpg).
 
     - About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
            
@@ -121,6 +121,6 @@ Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.i
 
          * The plot indicates that a year on Mars is roughly 675 Earth days long, confirmed by an internet search which states that a Mars year is equivalent to 687 Earth days.
 
-![entity_relationship_diagram](https://github.com/Lanceowesalot/Pewlett_Hackard_Challenge/blob/main/ERD_Final.png).
+![Terrestrial days](https://github.com/Lanceowesalot/Mars-News/blob/main/Images/Number%20of%20Mars%20Terrestrial%20days.jpg).
 
 Overall, the analysis provides insights into the temperature and atmospheric pressure variations across different months on Mars, as well as the length of a Martian year compared to Earth years. 
